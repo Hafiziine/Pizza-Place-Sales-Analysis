@@ -14,7 +14,7 @@ This is a power BI report on a fictitious store *“Pizza Place Sales”*. This 
 
 ## Visualization
 ![](V2.jpg)
-This report is a single page report that visualizes different KIP(s) to measure and monitor Pizza Place sales performance. It also featured product performance and uncover hidden patterns which the store can leverage  to maximize profit. to interact with this report click [Here](<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTRkNzM0ZjYtYTI2NS00OWQxLWE0MjgtMzEyMmY1MGRlM2U3IiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9" frameborder="0" allowFullScreen="true"></iframe>)
+This report is a single page report that visualizes different KIP(s) to measure and monitor Pizza Place sales performance. It also featured product performance and uncover hidden patterns which the store can leverage  to maximize profit. to interact with this report click [Here](https://app.powerbi.com/view?r=eyJrIjoiOTRkNzM0ZjYtYTI2NS00OWQxLWE0MjgtMzEyMmY1MGRlM2U3IiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9)
 
 ## Analysis
 •	Classic Pizza accounted for 30.03% of quantities of pizza sold and generated highest revenue at **220,053.10**
