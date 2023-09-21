@@ -13,7 +13,7 @@ This is a power BI report on a fictitious store *“Pizza Place Sales”*. This 
 4.	Are there any pizzas we should take of the menu, or any promotion we could leverage?
 
 ## Visualization
-![](V2.jpg)
+![](https://github.com/Hafiziine/Pizza-Place-Sales-Analysis/blob/main/pizzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzza.jpg)
 This report is a single page report that visualizes different KIP(s) to measure and monitor Pizza Place sales performance. It also featured product performance and uncover hidden patterns which the store can leverage  to maximize profit. to interact with this report click [Here](https://app.powerbi.com/view?r=eyJrIjoiOTRkNzM0ZjYtYTI2NS00OWQxLWE0MjgtMzEyMmY1MGRlM2U3IiwidCI6ImQ5MTZmMWVjLTA3MDktNDIzNC1iNDgyLTljYjIyOGUwZDk5NyJ9)
 
 ## Analysis
